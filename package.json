@@ -1,0 +1,17 @@
+{
+  "name": "curso-graphql",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
